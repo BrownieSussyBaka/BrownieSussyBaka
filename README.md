@@ -32,10 +32,6 @@ My current interests sit at the intersection of:
 * 🌐 **Full-Stack Web Development**
 * 🔬 **AI/ML Research & Experimentation**
 
-I enjoy taking an idea from **research concept → architecture → implementation → experimentation → working system**.
-
-Currently, I'm particularly interested in understanding how intelligent systems can become more **transparent, explainable, interactive, and useful to humans**.
-
 ---
 
 ## 🔬 Research Interests
@@ -93,26 +89,6 @@ Some of my projects explore ideas in **AI, NLP, intelligent systems, emergency r
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker,linux,vscode" />
 </p>
-
----
-
-## 📌 Areas I'm Currently Exploring
-
-```text
-LLMs ────────────────► NLP & Intelligent Applications
-        │
-        ├────────────► Multi-Agent Systems
-        │
-        └────────────► Human-AI Interaction
-
-Full-Stack ──────────► Real-Time & Scalable Systems
-        │
-        ├────────────► Next.js / TypeScript
-        ├────────────► APIs & Databases
-        └────────────► WebSocket-Based Applications
-
-Research ────────────► Experiments → Evaluation → Publications
-```
 
 ---
 
